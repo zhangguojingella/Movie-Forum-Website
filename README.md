@@ -8,4 +8,4 @@ For customers, they can see information about the movies they like. We have abou
 
 For administrators, they can not only check reviews of movies and delete them which contain dirty words or unhealthy information, but also open a new topic discussion board. 
 
-Utilized technical skills to implement a responsive movie forum web using Bootstrap for framework design, users can publish/add/delete comment as they need.Successfully designed backend database using MEAN stack. This project use CSS and html to beatify our front-end design. When it comes to connecting to other pages, JavaScript functions and jQuery are performed to ensure the functionality. We also used MONGODB to manage our users and website.
+This project use CSS and html to beatify our front-end design. When it comes to connecting to other pages, JavaScript functions and jQuery are performed to ensure the functionality. We also used MONGODB to manage our users and website.
